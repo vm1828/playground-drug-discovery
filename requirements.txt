@@ -1,0 +1,18 @@
+# Core data / ML
+numpy
+pandas
+scipy
+scikit-learn
+seaborn
+matplotlib
+
+# Cheminformatics
+rdkit==2024.9.5
+padelpy                      # bundles PaDEL-Descriptor (requires Java)
+
+# Data source + model comparison
+chembl_webresource_client==0.10.9
+lazypredict
+
+# Notebook kernel (local / VS Code)
+ipykernel
